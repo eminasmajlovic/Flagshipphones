@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #FlagshipPhones :iphone:
 ##Emina Smajlović (17039)
 Web stranica sa novostima, recenzijama i specifikacijama mobilnih telefona
@@ -182,3 +183,6 @@ JSON.php - REST metoda za pristupanje servisu </br>
 Folderi: </br>
 POSTMANScreenshots - screenshot-ovi iz POSTMAN-a </br>
 DumpIERD - dump baze i ERD</br>
+=======
+# Flagshipphones k
+>>>>>>> cf2f2753583a17b155db2e15ac46713fb21bdc5c
